@@ -1,0 +1,9 @@
+/Users/junallanparreno/ProgrammingPortfolio/MongoDbCRUD/bin/Debug/netstandard2.0/MongoDbCRUD.deps.json
+/Users/junallanparreno/ProgrammingPortfolio/MongoDbCRUD/bin/Debug/netstandard2.0/MongoDbCRUD.dll
+/Users/junallanparreno/ProgrammingPortfolio/MongoDbCRUD/bin/Debug/netstandard2.0/MongoDbCRUD.pdb
+/Users/junallanparreno/ProgrammingPortfolio/MongoDbCRUD/obj/Debug/netstandard2.0/MongoDbCRUD.csprojAssemblyReference.cache
+/Users/junallanparreno/ProgrammingPortfolio/MongoDbCRUD/obj/Debug/netstandard2.0/MongoDbCRUD.csproj.CoreCompileInputs.cache
+/Users/junallanparreno/ProgrammingPortfolio/MongoDbCRUD/obj/Debug/netstandard2.0/MongoDbCRUD.AssemblyInfoInputs.cache
+/Users/junallanparreno/ProgrammingPortfolio/MongoDbCRUD/obj/Debug/netstandard2.0/MongoDbCRUD.AssemblyInfo.cs
+/Users/junallanparreno/ProgrammingPortfolio/MongoDbCRUD/obj/Debug/netstandard2.0/MongoDbCRUD.dll
+/Users/junallanparreno/ProgrammingPortfolio/MongoDbCRUD/obj/Debug/netstandard2.0/MongoDbCRUD.pdb
